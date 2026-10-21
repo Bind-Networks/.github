@@ -1,7 +1,3 @@
-# Bind Networks
+Bind inspects every human and AI agent session on your network, enforces one plain-English policy as it happens, and ties every agent action to its owner.
 
-Security for the human and AI workforce.
-
-Our team has built enterprise networking and security at scale, and we are bringing that experience to the superintelligence era. The product launches soon.
-
-Follow along at [bind.net](https://www.bind.net) and say hello at hello@bindnetworks.io
+Bind is built by a team with deep roots in enterprise networking and security, with one goal: letting organizations put AI to work with full visibility and control.
