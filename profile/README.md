@@ -1,3 +1,7 @@
-# Something new is being built here.
+# Bind Networks
 
-We're putting the finishing touches on a project worth waiting for. Quietly crafting, carefully iterating. Back online soon.
+Security for the human and AI workforce.
+
+Our team has built enterprise networking and security at scale, and we are bringing that experience to the superintelligence era. The product launches soon.
+
+Follow along at [bind.net](https://www.bind.net) and say hello at hello@bindnetworks.io
